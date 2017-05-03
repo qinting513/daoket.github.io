@@ -14,7 +14,7 @@
 <img src="https://daoket.github.io/img/qrcode/home.png"/>
 <center/>
 
-4. [百度百家](https://daoket.github.io/baijia/index.html#/select)
+4. [百度百家](https://daoket.github.io/news/index.html#/select)
 <center>
-<img src="https://daoket.github.io/img/qrcode/baijia.png"/>
+<img src="https://daoket.github.io/news/address.png"/>
 <center/>

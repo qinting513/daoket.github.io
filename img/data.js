@@ -1,1 +1,1 @@
-[{name:'张三',count:200,reward:123123},{name:'李四',count:200,reward:1231223}]
+{"result":{"actid":4,"actname":"每日一语每日一语","begindate":1495591155000,"enddate":1496195957000,"ruledesc":"[\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\"]"},"returncode":"000000","returnmsg":"成功","systime":1495716955713}

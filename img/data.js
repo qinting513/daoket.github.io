@@ -1,1 +1,26 @@
-{"result":{"actid":4,"actname":"每日一语每日一语","begindate":1495591155000,"enddate":1496195957000,"ruledesc":"[\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\",\"1sdhfkasd\"]"},"returncode":"000000","returnmsg":"成功","systime":1495716955713}
+{
+        "answer" : {
+            "text" : "你想做飞机还是火车?"
+        },
+        "rc" : 0,
+        "semantic" : [
+            {
+                "intent" :  "QUERY",
+                "slots" : [
+                     ......
+                ]
+            }
+        ],
+        "service" : "flight",
+        "text" : "我要去北京",
+        "moreResults" : [
+            {
+                "text" : "我要去北京",
+                "rc" : 0,
+                "semantic" : [
+                     ......
+                ],
+                "service" : "train"
+            }
+        ]
+    }

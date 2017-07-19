@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>Document</title>
+</head>
+<body>
+  <button id="getBaseInfo">getBaseInfo</button>
+  <script src="https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js"></script>
+  <script src="js/ilingxi-1.0.0.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		 $("#getBaseInfo").click(function() {
+        lx.getBaseInfo({
+            isNeedLbs: false,
+            success: function(ret) {
+                alert("getBaseInfo:" + JSON.stringify(ret));
+                document.write(JSON.stringify(ret))
+            }
+        });
+
+    });
+	</script>
+</body>
+</html>

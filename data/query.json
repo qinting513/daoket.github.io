@@ -4,7 +4,7 @@
   "result": {
     "gprsisgot": "",
     "gprsisleft": "",
-    "migucoinisleft": "false",
+    "migucoinisleft": "true",
     "miguisgot": "false"
   },
   "status": "success"

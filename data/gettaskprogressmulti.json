@@ -3,7 +3,7 @@
     "day": [{
       "category": "DAY",
       "exttype": "",
-      "isfinished": true,
+      "isfinished": false,
       "limitrange": "day",
       "limittimes": 1,
       "limittype": "single",
@@ -14,7 +14,7 @@
     }, {
       "category": "DAY",
       "exttype": "",
-      "isfinished": true,
+      "isfinished": false,
       "limitrange": "day",
       "limittimes": 1,
       "limittype": "single",

@@ -2,40 +2,6 @@
   "result": {
     "day": [{
       "category": "DAY",
-      "extruleinfo": "\"CONTINUOUS\":{0:30,1:5,2:10,3:15,4:20,5:25,6:30},\"FIRSTBONUS\":50",
-      "exttype": "CONTINUOUS|FIRSTBONUS",
-      "isfinished": false,
-      "limitrange": "day",
-      "limittimes": 1,
-      "limittype": "single",
-      "opcode": "SIGN",
-      "opdesc": "签到",
-      "opname": "签到",
-      "score": 5
-    }, {
-      "category": "DAY",
-      "exttype": "",
-      "isfinished": false,
-      "limitrange": "day",
-      "limittimes": 1,
-      "limittype": "single",
-      "opcode": "MIC_WEATHER",
-      "opdesc": "点击麦克风说：“今天天气怎么样”",
-      "opname": "语音查天气",
-      "score": 5
-    }, {
-      "category": "DAY",
-      "exttype": "",
-      "isfinished": false,
-      "limitrange": "day",
-      "limittimes": 1,
-      "limittype": "single",
-      "opcode": "MIC_REMIND",
-      "opdesc": "点击麦克风说：“提醒我上午10点开会”",
-      "opname": "语音新建提醒",
-      "score": 5
-    }, {
-      "category": "DAY",
       "exttype": "",
       "isfinished": false,
       "limitrange": "day",

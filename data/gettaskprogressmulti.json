@@ -1,0 +1,30 @@
+{
+  "result": {
+    "day": [{
+      "category": "NEWBIE",
+      "exttype": "",
+      "isfinished": true,
+      "limitrange": "ever",
+      "limittimes": 1,
+      "limittype": "single",
+      "opcode": "MIC_TRANS",
+      "opdesc": "翻译一句话，如：你好",
+      "opname": "首次使用翻译功能",
+      "score": 5
+    }, {
+      "category": "NEWBIE",
+      "exttype": "",
+      "isfinished": false,
+      "limitrange": "ever",
+      "limittimes": 1,
+      "limittype": "single",
+      "opcode": "FAST_NOTE",
+      "opdesc": "语音新建一条记录",
+      "opname": "首次使用速记功能",
+      "score": 5
+    }]
+  },
+  "returncode": "000000",
+  "returnmsg": "成功",
+  "systime": 1501483216435
+}

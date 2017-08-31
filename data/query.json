@@ -1,0 +1,11 @@
+{
+  "desc": "success",
+  "errorcode": "000000",
+  "result": {
+    "gprsisgot": "",
+    "gprsisleft": "",
+    "migucoinisleft": "true",
+    "miguisgot": "false"
+  },
+  "status": "success"
+}

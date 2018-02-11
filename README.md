@@ -14,7 +14,7 @@
 <img src="https://daoket.github.io/img/qrcode/home.png"/>
 <center/>
 
-4. [百度百家](https://daoket.github.io/news/index.html#/select)
+4. [vNews](https://daoket.github.io/news/index.html#/select)
 <center>
 <img src="https://daoket.github.io/news/address.png"/>
 <center/>
